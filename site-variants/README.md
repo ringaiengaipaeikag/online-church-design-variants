@@ -21,3 +21,4 @@ The Pages workflow publishes this directory as a static site:
 Publishing surface: GitHub Pages.
 Publish directory: `site-variants`.
 Build command: none; the site is static HTML/CSS.
+Published URL: `https://ringaiengaipaeikag.github.io/online-church-design-variants/`.
